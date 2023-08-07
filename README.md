@@ -1,9 +1,6 @@
 # Hand-Getsture-Recognition
 ## Demo:  
-[![Demo Video]
-(https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=JLMbpiywVxQ)
-
+[![Demo Video](https://img.youtube.com/vi/x0QqXA8PHnU/maxresdefault.jpg)](https://www.youtube.com/watch?v=x0QqXA8PHnU)
 
 
 ## Pipeline:  
