@@ -1,4 +1,11 @@
 # Hand-Getsture-Recognition
+## Demo:  
+[![Demo Video]
+(https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)]
+(https://www.youtube.com/watch?v=JLMbpiywVxQ)
+
+
+
 ## Pipeline:  
 * **Extract Keypoints:** [Mediapipe](https://developers.google.com/mediapipe)  
 * **Recognition:** LSTM
@@ -26,4 +33,10 @@ Uniform Sampling:
 * Optimizer: SGD with momentum=0.9 and Nesterov=True
 * Loss: CrossEntropy
  ![image](https://github.com/TanNguyen2812/Hand-Getsture-Recognition/assets/141646071/ab070d85-b2b2-4d04-b398-ee815fd05770)
+## Evaluation: 
+* Accuracy (Top1Acc) = 97%
+![image](https://github.com/TanNguyen2812/Hand-Getsture-Recognition/assets/141646071/bde733c2-ced2-4dc9-af3d-ec4b39b69b45)
+* Confusion Matrix:  
+![image](https://github.com/TanNguyen2812/Hand-Getsture-Recognition/assets/141646071/187b0a25-d7aa-44ea-9b4f-3862a0aad50b)
+
 
