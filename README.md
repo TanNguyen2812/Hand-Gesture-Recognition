@@ -1,5 +1,5 @@
 # Hand-Getsture-Recognition
-## Demo:  
+## Demo (Click to watch):  
 [![Demo Video](https://img.youtube.com/vi/x0QqXA8PHnU/maxresdefault.jpg)](https://www.youtube.com/watch?v=x0QqXA8PHnU)
 
 
